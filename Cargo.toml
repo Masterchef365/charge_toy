@@ -1,0 +1,9 @@
+[package]
+name = "electrical_charge"
+version = "0.1.0"
+authors = ["Masterchef365 <duncan.freeman1@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+glium = "0.25.0"
+rand = "*"
